@@ -1,3 +1,18 @@
+
+# **Rachel Parsons**
+#### Sometown, MA 55555 | Cell: **555-555-5555** rp@somedomain.com | [Portfolio Link](rp@somedomain.com)
+
+### **Software Developer | System Architect**
+
+- Contribute to innovative, groundbreaking software solutions that meet business demand for
+agility, flexibility, mobility and a superb cloud experience
+
+- Software developer with experience in e-commerce, enterprise and high-performance web technologies.
+
+- High-performance technologist skilled at defining, designing and implementing a highly secure, continuous-deployment pipeline to update applications in cloud environments.
+
+- Quality engineer bringing a strong focus on “voice of the customer” into the software development function to ensure product and customer success.
+
 Delivered improvements to Call Center Hub. Created a modern new interface that contributed to a 15% increase in new user adoption rates within one month of rollout.
 
 
@@ -22,3 +37,4 @@ Won **XYZ’s 2012 Top Security Gateway** for DEFSafe, positioning early-stage s
 ## Education
 
 **BS in Computer Engineering (with honors)** | **ABC University** | Sometown, MA
+
